@@ -132,5 +132,21 @@ section .tip-wrapper svg path {
   fill: #1ea7fd;
 }
 
+.storybook-tip-container {
+  display: flex;
+  align-items: center;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
 
-/*# sourceMappingURL=main.f670686b.css.map*/
+.storybook-tip-icon {
+  background-color: cyan;
+  color: black;
+  padding: 4px 8px;
+  border-radius: 6px;
+  margin-right: 8px;
+}
+
+.storybook-tip-message {}
+
+/*# sourceMappingURL=main.7bc69b7b.css.map*/
