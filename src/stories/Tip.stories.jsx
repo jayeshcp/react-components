@@ -3,7 +3,7 @@ import React from 'react';
 import { Tip } from './Tip';
 
 export default {
-  title: 'Example/Tip',
+  title: 'Components/Tip',
   component: Tip
 };
 
