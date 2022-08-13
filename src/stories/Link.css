@@ -1,0 +1,12 @@
+a.link {
+  padding: 2px 5px;
+  text-decoration: none;
+}
+
+a.link:focus {
+  border: none;
+  border-radius: 2pt;
+  box-shadow: 0 0 3pt 2pt cornflowerblue;
+  outline: none;
+  transition: .1s;
+}
