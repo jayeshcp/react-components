@@ -62,6 +62,18 @@ button + button {
   margin-right: 10px;
 }
 
+a.link {
+  padding: 2px 5px;
+  text-decoration: none;
+}
+
+a.link:focus {
+  border: none;
+  border-radius: 2pt;
+  box-shadow: 0 0 3pt 2pt cornflowerblue;
+  outline: none;
+  transition: .1s;
+}
 section {
   font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 14px;
@@ -149,4 +161,4 @@ section .tip-wrapper svg path {
 
 .storybook-tip-message {}
 
-/*# sourceMappingURL=main.7bc69b7b.css.map*/
+/*# sourceMappingURL=main.41590cf9.css.map*/
