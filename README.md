@@ -2,6 +2,8 @@
 
 React UI components library
 
+[![pages-build-deployment](https://github.com/jayeshcp/react-components/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/jayeshcp/react-components/actions/workflows/pages/pages-build-deployment)
+
 ## Getting started
 
 ### Available Scripts
